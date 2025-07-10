@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamessv)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamessv)](https://github.com/ryo-ma/github-profile-trophy)
+
+
