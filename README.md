@@ -1,5 +1,5 @@
-# Hi there 👋
-### Welcome
+# Hi there 👋 I'm Jam
+### Software Engineer
 
 
 **jamessv/jamessv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
